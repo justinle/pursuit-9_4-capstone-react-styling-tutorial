@@ -1,0 +1,23 @@
+//@import-normalize;
+body {
+  font-family: -apple-system, BlinkMacSystemFont, avenir next, avenir, segoe ui, helvetica neue, helvetica, Cantarell, Ubuntu, roboto, noto, arial, sans-serif;
+  background-color: #2D2A2E;
+}
+
+code {
+  background-color: #eeeeee;
+  padding-left: 4px;
+  padding-right: 4px;
+  font-family: ui-monospace, "Cascadia Mono", "Segoe UI Mono", "Ubuntu Mono", "Roboto Mono", Menlo, Monaco, Consolas, monospace;
+}
+
+.section {
+  background-color: white;
+  padding: 16px;
+  margin: 16px;
+}
+
+.note {
+  background-color: #fff9cc;
+  padding: 8px;
+}
